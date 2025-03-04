@@ -8,7 +8,7 @@ TeacherTrack-SmartBoard is a gesture-based drawing application that uses YOLO fo
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/ChunchuManoj/Gesture-Based-Drawing-Using-Object-Detection.git)
     cd TeacherTrack-SmartBoard
     ```
 
