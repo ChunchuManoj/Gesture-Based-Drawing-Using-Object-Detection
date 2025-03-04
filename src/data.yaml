@@ -1,0 +1,6 @@
+train: C:\Major Project\TeacherTrack-SmartBoard\data\train\images
+val: C:\Major Project\TeacherTrack-SmartBoard\data\val\images
+nc: 1  # Number of classes
+names: ['bracelet']
+
+

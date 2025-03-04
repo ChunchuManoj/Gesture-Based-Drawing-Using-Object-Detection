@@ -1,0 +1,3 @@
+conda activate bracelet
+cd src
+python Gesture-Based_Drawing.py
